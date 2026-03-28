@@ -1,0 +1,40 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "74abbf67-8702-4e96-81de-5af48bd15d6f",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1774599275678"
+        }
+      },
+      "favorite": {
+        "name": ""
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    },
+    {
+      "id": "bb6834f2-70fb-4519-9cb7-7a39aba808d7",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1774599259241"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.blryo.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://grupo-13@cluster0.blryo.mongodb.net/NodeMod3Cohorte5",
+        "oidc": {}
+      }
+    }
+  ]
+}
