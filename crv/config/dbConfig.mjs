@@ -3,7 +3,7 @@ import mongoose from 'mongoose';
 export async function connectDB() {
   try {
     // Intentamos realizar la conexión
-    await mongoose.connect('mongodb+srv://Grupo-13:grupo13@cursadanodejs.ls9ii.mongodb.net/Node-js');
+    await mongoose.connect('mongodb+srv://grupo-13:grupo-13@cluster0.blryo.mongodb.net/NodeMod3Cohorte5');
 
    
     console.log('Conexión exitosa a MongoDB');
